@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+	-Git starting tracking commits un repository and create hidde directory named .git
+
+
