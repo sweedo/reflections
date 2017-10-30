@@ -1,4 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 	-Git starting tracking commits un repository and create hidde directory named .git
 
+How can you use the staging area to make sure you have one commit per logical change?
 
+	-x3
